@@ -1,0 +1,42 @@
+<html>
+<head>
+<title>
+    PERPUSTAKAAN DIGITAL 
+</title>
+</head>
+<body>
+<br>
+<h1><center  style="color:darkblue; background-color: darkturquoise"> APLIKASI PERPUSTAKAAN DIGITAL BERBASIS WEB</center></h1>
+<P><center style="color:rgba(98, 78, 228, 0.815);">Indhira Aulia Rizki Syawallani - Nomor Induk Mahasiswa 11210251000021 - Kelas 5B Ilmu Perpustakaan</center>
+<p align="justify"> Perpustakaan merupakan tempat dimana kita mencari, menambah, serta memperluas wawasan dan ilmu pengetahuan. Mengelola perpustakaan bukanlah hal yang mudah karena pada umumnya pustakawan harus berhadapan dengan ribuan atau ratusan ribu buku, baik dari segi jumlah maupun jenisnya.</p>
+<p align="justify"> Dengan banyaknya jumlah buku tersebut, para pustakawan menghadirkan software atau aplikasi perpustakaan digital untuk mengolah invetaris, pencatatan anggota, peminjaman dan pengembalian buku, serta lainnya. Dengan adanya aplikasi perpustakaan, pekekrjaan rutin para pustakawan dapat dilakukan secara efisien. Penggunaan aplikasi perpustakaan dapat meminimalisir hal-hal yang biasa disebut dengan Human Error dan dari segi waktu, pengolahan akan menjadi lebih cepat tanpa banyak perbaikan.</p>
+<p align="justify"> Saat ini, banyak sekali rekomendasi aplikasi perpustakaan digital yang bisa digunakan secara gratis maupun berbayar. Berikut ini terdapat 3 rekomendasi aplikasi perpustakaan digital terpopuler di Indonesia, yaitu sebagai berikut :</p>
+<h2> 1. iPusnas</h2>
+<br>
+<div style="background-color:white; display: flex;justify-content: center;align-items: center;">
+<img src="images/iPusnas.jpeg" width="400" height="200">
+</div>
+<br>
+<p align="justify"> iPusnas merupakan aplikasi yang disediakan oleh Perpustakaan Nasioanal Republik Indonesia. Selain fitur standar perpustakaan seperti peminjaman buku, iPusnas juga memiliki fitur sosial media yang dapat digunakan untuk berinteraksi dengan anggota lain. Pada aplikasi tersebut juga terdapat fitur yang bernama ePustaka yang memungkinkan pemustaka menjadi anggota perpustakaan dari berbagai perpustakaan yang berbeda.</p>
+    <h2> 2. iJakarta</h2>
+    <br>
+    <div style="background-color:white; display: flex;justify-content: center;align-items: center;">
+    <img src="images/iJakarta.jpeg" width="400" height="200">
+    </div>
+    <p align="justify"> iJakarta merupakan aplikasi perpustakaan milik Dinas Perpustakaan dan Kearsipan Pemprov DKI Jakarta. Fitur iJakarta mirip dengan fitu yang dimiliki iPusnas, mulai dari peminjaman buku antar pengguna seperti layaknya sosial media. Kemudian buku-buku yang tersedia di iJakarta bermacam jenisnya, termasuk buku sekolah electronik yang dapat dimanfaatkan oleh guru dan siswa sebagai bahan belajar dan mengajar.</p>
+    <h2> 3. SLiMS</h2>
+    <br>
+    <div style="background-color:white; display: flex;justify-content: center;align-items: center;">
+    <img src="images/slims.jpeg" width="400" height="200"
+    <br>
+    </div>
+    <p align="justify"> SLiMS (Senayan Library Management System) merupaka sistem automasi perpustakaan sumber terbuka (open source) berbasis web yang yang pertama kali dikembangkan serta digunakan oleh Perpustakaan Kementerian Pendidikan dan Kebudayaan Republik Indonesia.</p>
+    
+    
+
+<br>
+
+<br>
+
+</body>
+

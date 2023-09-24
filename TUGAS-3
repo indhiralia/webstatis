@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset='utf-8'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <title>PRAMUKA INDONESIA</title>
+    <meta name='viewport' content='width=device-width, initial-scale=1'>
+    <link rel='icon' type='images/x-icon' href='images/tunas kelapa.jpg'>
+    <script src='main.js'></script> 
+</head>
+<body style="background-color:burlywood;"
+<h1 style="color :black; background-color:blanchedalmond"><center>Tugas 3 - HTML5<br>Pengembangan Web</center></h1>
+<h2><center style="color: black; background-color: chocolate;"> GERAKAN PRAMUKA INDONESIA</h2>
+<p><center style="color:black; background-color: chocolate;""> Satyaku Ku Dharmakan, Dharmaku Ku Baktikan </center></p>
+<img src="images/gerakan-pramuka.jpeg" width="400" height="200" style="float:left;margin-left;width:300px;height:150px;"></p>
+<p style="text-align: justify; font-size: 18px"> Gerakan Pramuka adalah organisasi pendidikan nonformal yang menyelenggarakan pendidikan kepanduan yang dilaksanakan di Indonesia. Kata Pramuka merupakan singkatan dari Praja Muda Karana, yang memiliki arti Orang Muda yang Suka Berkarya. Kelompok anggota yang lain disebut anggota dewasa. Sedangkan yang dimaksud “Kepramukaan” adalah proses pendidikan di luar lingkungan sekolah dan di luar lingkungan keluarga dalam bentuk kegiatan menarik, menyenangkan, sehat, teratur, terarah, praktis yang dilakukan di alam terbuka dengan Prinsip Dasar Kepramukaan dan Metode Kepramukaan, yang sasaran akhirnya pembentukan watak, akhlak dan budi pekerti luhur. Kepramukaan adalah sistem pendidikan kepanduan yang disesuaikan dengan keadaan, kepentingan dan perkembangan masyarakat dan bangsa Indonesia. Gerakan Pramuka bertujuan untuk membentuk setiap Pramuka agar memiliki kepribadian yang beriman, bertakwa, berakhlak mulia, berjiwa patriotik, taat hukum, disiplin, menjunjung tinggi nilai-nilai luhur bangsa, dan memiliki berkecakapan hidup sebagai kader bangsa dalam menjaga dan membangun Negeara Kesatuan Republik Indonesia, mengamalkan Pancasila, serta melestarikan lingkungan. </p>
+<p><img src="images/download.png" width="300" height="150" style="float:right;margin-left;width:150px;height:150px;"></p>
+<p style="text-align: justify; font-size: 18px"> “Satyaku Ku Dharmakan, Dharmaku Ku Baktikan.” Itulah motto dari Praja Muda Karana atau yang lebih dikenal dengan Pramuka. Sebagaimana yang ditetapkan dalam Anggaran Dasar Gerakan Pramuka pasal 48 dan Anggaran Rumah Tangga Gerakan Pramuka Bab VII PAsal 120, lambang dari Gerakan Pramuka adalah tunas kelapa. Penjabaran lambang ini ditetapkan dalam SK Kwarnas Nomor 06/KN/72 tentang Lambang Pramuka. Pencipta lambang pramuka dalah Sunardjo Atmodipuro, seorang Andalan Nasional dan Pembina Pramuka yang juga pegawai dari Departemen Pertanian. Pencipta lambang Pramuka ini lahir pada tanggal 29 Februari 1903 di Blora dan meninggal pada tanggal 31 Mei 1979.  Gerakan Pramuka tersebut diawali dengan serangkaian peristiwa yang saling berkaitan. Pada 9 Maret 1961 diresmikan nama Pramuka dan menjadi Hari Tunas Gerakan Pramuka. Pada 20 Mei 1961, diterbitkan Keputusan Presiden Nomor 238 Tahun 1961 tentang Gerakan Pramuka dan momen tersebut dikenal sebagai Hari Permulaan Tahun Kerja. Pada 20 Juli 1961, para wakil organisasi kepanduan Indonesia mengeluarkan pernyataan di Istana Olahraga Senayan, untuk meleburkan diri ke dalam organisasi Gerakan Pramuka. Sehingga disebut sebagai Hari Ikrar Gerakan Pramuka.
+    Setelah itu, pada 14 Agustus 1961, Gerakan Pramuka diperkenalkan secara resmi kepada masyarakat luas dalam suatu upacara di halaman Istana Negara. Ditandai dengan penyerahan Panji Gerakan Pramuka dari Presiden Soekarno kepada Sri Sultan Hamengku Buwono IX yang juga menjadi Ketua pertama Kwartir Nasional Gerakan Pramuka. Panji itu lalu diteruskan Sri Sultan Hamengku Buwono IX kepada suatu barisan defile yang terdiri dari para Pramuka di Jakarta, dan dibawa berkeliling kota. Tanggal 14 Agustus itulah yang kemudian ditetapkan sebagai Hari Pramuka dari dirayakan seluruh Pramuka setiap tahunnya.
+<br>
+<h3> Dasa Dharma Pramuka</h3>
+<p>Pramuka itu :</p>
+    <ol type="1">
+        <li style="font-size: 18px;">Takwa kepada Tuhan Yang Maha Esa</li>
+        <li style="font-size: 18px;">Cinta alam dan kasih sayang sesama manusia</li>
+        <li style="font-size: 18px;">Patriot yang sopan dan kestaria</li>
+        <li style="font-size: 18px;">Patuh dan suka bermusyawarah</li>
+        <li style="font-size: 18px;">Rela menolong dan tabah</li>
+        <li style="font-size: 18px;">Rajin terampil dan bergembira</li>
+        <li style="font-size: 18px;">Hemat, cermat, dan bersahaja</li>
+        <li style="font-size: 18px;">Disiplin, berani, dan setia</li>
+        <li style="font-size: 18px;">Bertanggungjawab dan dapat dipercaya</li>
+        <li style="font-size: 18px;">Suci dalam pikiran, perkataan, dan perbuatan</li>
+    </ol>
+    <h3>Kelompok Pramuka Berdasarkan Usia</h3>
+    <table border="1" style="border: dashed; border-color:brown;">
+        <thead>
+            <tr>
+                <th>No.</th>
+                <th>Golongan</th>
+                <th>Usia</th>
+            </tr>
+            <tr>
+                <td>1</td>
+                <td>Pramuka Siaga</td>
+                <td>7-10 Tahun</td>
+            </tr>
+            <tr>
+                <td>2</td>
+                <td>Pramuka Penggalang</td>
+                <td>11-15 Tahun</td>
+            </tr>
+            <tr>
+                <td>3</td>
+                <td>Pramuka Penegak</td>
+                <td>16-20 Tahun</td>
+            </tr>
+            <tr>
+                <td>4</td>
+                <td>Pramuka Pandega</td>
+                <td>21-25 Tahun</td>
+            </tr>
+        </tbody>
+    </table>
+    <br>
+    <p> Sumber Rujukan Belajar HTML5: <a href="https://www.w3schools.com/">W3Schools</a></p>
+    <p>Yang Mengerjakan Tugas Ini:</p>
+    <img src="images/dhira.jpeg" width="150" height="150">
+    <table>
+        <tr>
+            <td>Nama Lengkap</td>
+            <td>:</td>
+            <td><b>Indhira Aulia Rizki Syawallani</b></td>
+        </tr>
+        <tr>
+            <td>NIM</td>
+            <td>:</td>
+            <td>11210251000021</td>
+        </tr>
+        
+    </table>
+
+
+
+
+
+
+
+
+
+
+</body>
+</html>

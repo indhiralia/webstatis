@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset='utf-8'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <title>GERAKAN PRAMUKA</title>
+    <meta name='viewport' content='width=device-width, initial-scale=1'>
+    <link rel='stylesheet' type='text/css' media='screen' href='main.css'>
+    <script src='main.js'></script>
+    <style> h1 {text-align: center;}
+    table, th, td {border: 1px solid;}
+</style>
+
+</head>
+<body>
+<h1 style="background-color:chocolate; font-family: 'Times New Roman', Times, serif;">GERAKAN PRAMUKA INDONESIA</h1>
+<h2>Sejarah Pramuka</h2>
+<p style="text-align:justify; font-size:20px;"><img src="https://pramuka.or.id/assets/uploads/2022/01/gerakan-pramuka.jpeg" width="400" height="200" style="float:left; margin-right:10px;"><b><i>Gerakan Pramuka</i></b> adalah organisasi pendidikan nonformal yang menyelenggarakan pendidikan kepanduan yang dilaksanakan di Indonesia. Kata Pramuka merupakan singkatan dari Praja Muda Karana, yang memiliki arti Orang Muda yang Suka Berkarya. Kelompok anggota yang lain disebut anggota dewasa. Sedangkan yang dimaksud “Kepramukaan” adalah proses pendidikan di luar lingkungan sekolah dan di luar lingkungan keluarga dalam bentuk kegiatan menarik, menyenangkan, sehat, teratur, terarah, praktis yang dilakukan di alam terbuka dengan Prinsip Dasar Kepramukaan dan Metode Kepramukaan, yang sasaran akhirnya pembentukan watak, akhlak dan budi pekerti luhur. Kepramukaan adalah sistem pendidikan kepanduan yang disesuaikan dengan keadaan, kepentingan dan perkembangan masyarakat dan bangsa Indonesia. Gerakan Pramuka bertujuan untuk membentuk setiap Pramuka agar memiliki kepribadian yang beriman, bertakwa, berakhlak mulia, berjiwa patriotik, taat hukum, disiplin, menjunjung tinggi nilai-nilai luhur bangsa, dan memiliki berkecakapan hidup sebagai kader bangsa dalam menjaga dan membangun Negeara Kesatuan Republik Indonesia, mengamalkan Pancasila, serta melestarikan lingkungan.</p>
+<br>
+
+<h2>Kelompok Pramuka Berdasarkan Usia</h2>
+<dl>
+    <dt style="font-size:large"> Pramuka Siaga</dt>
+    <dd> Usia 7-10 Tahun</dd> 
+    <dt> Pramuka Penggalang</dt>
+    <dd> Usia 11-15 Tahun</dd>
+    <dt> Pramuka Penegak</dt>
+    <dd> Usia 16-20 Tahun</dd>
+</dl>
+<h2> Dasa Dharma Pramuka</h2>
+<ol>
+    <li> Takwa kepada Tuhan Yang Maha Esa</li>
+    <li> Cinta alam dan kasih sayang sesama manusia</li>
+    <li> Patriot yang sopan dan kestaria</li>
+    <li> Patuh dan suka bermusyawarah</li>
+    <li> Rela menolong dan tabah</li>
+    <li> Rajin, terampil, dan bergembira</li>
+    <li> Hemat, cermat, dan bersahaja</li>
+    <li> Disiplin, berani, dan setia</li>
+    <li> Bertanggungjawab dan dapat dipercaya</li>
+    <li> Suci dalam pikiran, perkataan, dan perbuatan</li>
+</ol>
+
+<h2> Golongan Pramuka</h2>
+<ul>
+    <li style="circle"> Pramuka Siaga</li>
+    <li style="circle"> Pramuka Penggalang</li>
+    <li style="circle"> Pramuka Penegak</li>
+</ul>
+
+<!--Table-->
+<h2> Pramuka</h2>
+<tabel>
+    <tr> 
+        <th> Bapak Pandu Pramuka</th>
+        <th> Penjelasan</th>
+    </tr>
+    <tr>
+        <td> Robert Boden Powell</td>
+        <td> Robert Stephenson Smyth Baden-Powell, Baron Baden-Powell ke-1, Bt, OM, GCMG, GCVO, KCB, juga dikenal sebagai BP, bipi atau Lord Baden-Powell, adalah letnan satu umum di tentara, penulis, dan pendiri Gerakan Kepanduan.</td>
+    </tr>
+</tabel>
+
+
+</body>
+</html>
